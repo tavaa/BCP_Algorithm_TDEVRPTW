@@ -141,10 +141,11 @@ For each, has been recorded:
 | r209C15_TD    | 379.8127020718137  | 3              | True     | 5                |
 | r209C20_TD    | 585.9096010382843  | 5              | True     | 9                |
 
+Scalability complete results are prsented in `BCP_Algorithm_TDEVRPTW_scalability.pdf`
+
 
 Artifacts:
 - Plots in `results/scalability/`
-- CSV summary: `results/scalability/scalability_results.csv`
 
 > The augmentation preserves all TD components and expands `arc_speed_profiles` consistently, defaulting to `"normal"` for arcs involving newly added customers.
 
@@ -163,5 +164,6 @@ Artifacts:
 3. E-VRPTW instances: https://data.mendeley.com/datasets/h3mrm5dhxw/1
 
 4. Exam Rules: https://sites.units.it/castelli/didattica/?file=mathopt.html
+
 
 
